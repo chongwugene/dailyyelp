@@ -59,3 +59,7 @@ scripts/temp/
 
 # Ignore data dump or raw files if needed
 data/raw/
+
+# google cloud keys and api keys
+yelpdaily*.json
+yelp_api_key.txt
